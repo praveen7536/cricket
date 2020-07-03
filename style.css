@@ -1,0 +1,19 @@
+table,
+th {
+    border: 2px solid;
+}
+
+.textCenter {
+    text-align: center;
+
+}
+table td,
+table th {
+    padding: 5px ;
+    border: 1px solid black ;
+}
+body{
+   text-align: center
+}
+
+
